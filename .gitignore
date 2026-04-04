@@ -1,0 +1,14 @@
+# .gitignore-Fichiers a ne Pas versionner
+
+# Envirennement Python
+_pycache_/
+*.pyc venv/.env
+
+#Modele ML(trop gros pour GitHub) models/*.pkl
+
+#Fichiers OS
+.DS_Store Thumbs.db
+
+#IDE
+.vscode/
+.idea/
