@@ -12,3 +12,7 @@ _pycache_/
 #IDE
 .vscode/
 .idea/
+
+#Fichier temporaire matplotlib
+*.png
+!figures/*.png
